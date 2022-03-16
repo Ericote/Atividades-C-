@@ -1,0 +1,53 @@
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.RazorTargetAssemblyInfo.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.Manifest.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.xml
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.xml
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\user\OneDrive\Documentos\Estudos\Csharp\Faculdade\Desktop\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.Manifest.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.xml
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Zoo.styles.css
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.RazorTargetAssemblyInfo.cache
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\eric.araujo\OneDrive - SENAC-SC\Documentos\atividades\Atividades-C-\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
